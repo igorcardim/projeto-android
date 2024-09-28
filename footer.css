@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+footer{
+    background-color: #063D1E;
+    margin: 0px;
+    color: white;
+    padding-bottom: 10px;
+    
+}
+
+.rodape{
+    text-align: center;
+    margin: 10px;
+}
+
+
+.cardim{
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-style: italic;
+}
+
+.cardim:hover{
+    text-decoration: underline;
+    
+}
