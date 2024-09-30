@@ -58,6 +58,7 @@ main a{
     padding: 3px;
     font-style: italic;
 }
+
 /*colocando sublinhando quando passar o mouse*/
 main a:hover{
     text-decoration: underline;
